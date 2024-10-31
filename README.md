@@ -54,6 +54,6 @@ Desarrollar un sistema de reservas que permita a los usuarios realizar, modifica
 
 Este resumen puede servir como base para detallar los aspectos específicos del proyecto. 
 
-<img src="images/sistema-reserva.drawio.png">
+<img src="imagenes/sistema-reserva.drawio.png">
 
 *Author: Habcode*
