@@ -1,4 +1,3 @@
-# git-Sistema-de-reserva
 # git-sistema-de-reserva
 
 
@@ -53,8 +52,6 @@ Desarrollar un sistema de reservas que permita a los usuarios realizar, modifica
 - Realizar pruebas para garantizar el correcto funcionamiento del sistema.
 
 Este resumen puede servir como base para detallar los aspectos específicos del proyecto. 
-   
-<img src="imagenes/sistema-reserva.drawio.png">
 
 *Author: Habcode*
 
