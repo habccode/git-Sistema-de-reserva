@@ -168,7 +168,7 @@ Este resumen puede servir como base para detallar los aspectos específicos del 
 
 |  Atributo |||
 |---|---|---|
-| _Nombre_  | _Descripción_  | _Tipo_ |
+| _Nombre_  | _Agente de viajes_  | _Tipo_ |
 | | |
 
 ---
