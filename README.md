@@ -214,18 +214,6 @@ Este resumen puede servir como base para detallar los aspectos específicos del 
   | Autor  | _cliente_ |
   |Fecha | _01-11-2024_ |
 
-  Caso de Uso	CU | Administrador de agencia de viajes |
-  |---|---|
-  | Fuentes  | _gestiona el sistema de viajes_  |
-  | Actor  |  _se comunica con el administrador/recepcionista_ |
-  | Descripción | _gestiona el sistema y y asigna los paquetes de viaje al hotel tanto en temporada alta como baja_  |
-  | Flujo básico | _ gestiona las entradas y salida de los paquetes de viajes que cordina con el hotel_ |
-  | Pre-condiciones | _ Colabora con el hotel con porcentajes ajustables tanto pra los clientes como para las dos empresas_  |  
-  | Post-condiciones  | _Las temporadas bajas hacen pasquetes de reserva con un porcentaje un poco menos_  |  
-  |  Requerimientos | gestiona los pagos con los clientes en especifico mayormente son con tarjeta de credito  |
-  |  Notas |  _Comentarios: "La isla de tenerife fue explendida, 100% recomendado"_ |
-  | Autor  | _cliente_ |
-  |Fecha | _01-11-2024_ |
 
 ---
 
@@ -250,7 +238,7 @@ Este resumen puede servir como base para detallar los aspectos específicos del 
 
 ---
 
-|Caso de Uso|	Gestion de3 reserva de habitaciones|
+|Caso de Uso|	Gestion de reserva de habitaciones|
 |--|--|
 |Crear Reserva de Habitación|	Recepcionista, Cliente	Realizar una nueva reserva de habitación.
 |Modificar Reserva de Habitación|	Recepcionista, Cliente	Cambiar los detalles de una reserva existente.
