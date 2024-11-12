@@ -125,5 +125,6 @@ Este resumen puede servir como base para detallar los aspectos específicos del 
 
 **Author: Habccode**                                                                     
 
+DEfinicion de lso actores
 
 
