@@ -256,6 +256,33 @@ Este resumen puede servir como base para detallar los aspectos específicos del 
 |Actualización de disponibilidad|	El sistema actualiza la disponibilidad de la habitación para reflejar que está ocupada.
 |Fecha | _01-11-2024_ |
 
+  En la creacion de mi primer proyecto he tomado en cuenta todas las caracteristicas y requisitos necesarios, para su realizacion:
+
+   La siguente extructura es un ejemplo de como deberia estar estructurado nuestro proyecto correctamente.
+
+   ````
+    ├── docs/
+   │   ├── requisitos/
+   │   │   ├── especificacion_requisitos.md
+   │   │   ├── casos_uso.md
+   │   │   └── backlog.md
+   │   ├── diseno/
+   │   │   ├── diagramas/
+   │   │   │   ├── diagrama_clases.png
+   │   │   │   ├── diagrama_secuencia.png
+   │   │   │   ├── diagrama_actividades.png
+   │   │   │   ├── diagrama_componentes.png
+   │   │   │   └── diagrama_despliegue.png
+   │   │   └── arquitectura.md
+   │   ├── planificacion/
+   │   │   ├── plan_proyecto.md
+   │   │   ├── cronograma.md
+   │   │   └── riesgos.md
+   └── README.md
+
+   ````   
+
+**AUTHOR: Habcode**
 
 
 
